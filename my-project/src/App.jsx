@@ -12,10 +12,10 @@ function ShitcoinPortal() {
 		<img src={logo} alt="Shitcoin Logo" className="w-10 h-10 mb-6 object-contain" /> {/* Centered Image */}
 
         <div className="flex justify-center gap-4 mt-4">
-          <a href="https://twitter.com" target="_blank" rel="noopener noreferrer">
+          <a href="https://x.com/peruesclavecoin" target="_blank" rel="noopener noreferrer">
             <Button className="bg-blue-500 text-white px-4 py-2 rounded-lg">Follow on X</Button>
           </a>
-          <a href="https://t.me" target="_blank" rel="noopener noreferrer">
+          <a href="https://t.me/PERUESCLAVECOIN" target="_blank" rel="noopener noreferrer">
             <Button className="bg-blue-600 text-white px-4 py-2 rounded-lg">Join Telegram</Button>
           </a>
         </div>
